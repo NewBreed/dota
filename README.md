@@ -23,6 +23,6 @@ Commands:
 > /surrender - Vote to surrender, requires 2/3 majority.  
 > /kill - Makes you die, don't know why you would want to use this...  
 
-a full guide for the server can be found on our website [our website] [Dota-Guide]!
+a full guide for the server can be found on [our website] [Dota-Guide]!
 
 [Dota-Guide]: http://www.newbreedgaming.com/newbreed-dota/
